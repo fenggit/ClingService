@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClingService</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+        <string name="search_lan">Search</string>
+    
+    <!-- shown when connecting to a music stream, before it starts playing -->
+    <string name="streamloadingtext">Connecting to \u2026</string>
+    <!-- Default name of artist that doesn't have a name in the metadata -->
+    <string name="unknown_artist_name">Unknown artist</string>
+    <!-- Shown as a transient message whenever a file fails to play -->
+    <string name="playback_failed">Sorry, failed to open file.</string>
+    
+    <string name="audiofocus_request_failed_message">audiofocus_request_failed_message</string>
+</resources>
